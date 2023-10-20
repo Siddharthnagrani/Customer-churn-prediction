@@ -1,1 +1,1 @@
-# Stock-analysis
+# Customer churn prediction
